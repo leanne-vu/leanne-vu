@@ -32,7 +32,6 @@ I am a full-stack software engineer based out of Orange County, California! I am
 - ⭐ Software is endless!
 <br> </br>
 [![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=leanne-vu&hide=stars,contribs&show_icons=true&theme=bear)](https://github.com/leanne-vu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanne-vu&layout=compact&theme=bear&hide=shell,procfile)](https://github.com/leanne-vu/github-readme-stats)
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="40" /> Connect with me! <br>
 <a href="https://www.linkedin.com/in/leanne-vu/">
