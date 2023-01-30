@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello,%20World!%20My%20%20name%20is%20Leanne%20👋%20💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello,%20World!%20My%20%20name%20is%20Leanne%20👋%20💻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome! </h2>
 I am a full-stack software engineer based out of Orange County, California! I am passionate about web development because it allows me to utilize my creativity to solve real-world problems. I want to be able to use my technical skills to make an impact in other people's lives.
