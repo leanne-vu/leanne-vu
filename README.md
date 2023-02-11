@@ -5,7 +5,7 @@ I am a full-stack software engineer based out of Orange County, California! I am
 <br></br>
  CSULB Community Health major ➺ Community Health Intern ➺ Optometry Practice Manager  ➺ Web Developer
 
-🤝 Ask me about my journey.
+🤝 Ask me about my journey!
 
 ✨ Fun Facts! 
 
