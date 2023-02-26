@@ -28,8 +28,7 @@ I am a full-stack software engineer based out of Orange County, California! I am
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
-- 💻 Currently studying - Chart.js
+- 💻 Currently studying - ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
 - ⭐ Software is endless!
 <br> </br>
 [![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=leanne-vu&hide=stars,contribs&show_icons=true&theme=bear)](https://github.com/leanne-vu/github-readme-stats)
