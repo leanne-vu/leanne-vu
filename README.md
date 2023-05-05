@@ -29,7 +29,6 @@ I am a full-stack software engineer based out of Orange County, California! I am
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 - 💻 Currently studying - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flate&logo=typescript&logoColor=white) , ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) , ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-- ⭐ Software is endless!
 <br> </br>
 [![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=leanne-vu&hide=stars,contribs&show_icons=true&theme=bear)](https://github.com/leanne-vu/github-readme-stats)
 
