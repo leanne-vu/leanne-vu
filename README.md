@@ -3,7 +3,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome! </h2>
 I am a full-stack software engineer based out of Orange County, California! I am passionate about web development because it allows me to utilize my creativity to solve real-world problems. I want to be able to use my technical skills to make an impact in other people's lives.
 <br></br>
- CSULB Community Health major ➺ Community Health Intern ➺ Optometry Practice Manager  ➺ Web Developer
+ CSULB Community Health major ➺ Community Health Intern ➺ Optometry Practice Manager  ➺ Software Engineer
 
 🤝 Ask me about my journey!
 
