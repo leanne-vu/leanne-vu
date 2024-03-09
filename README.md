@@ -11,7 +11,7 @@ I am a full-stack software engineer based out of Orange County, California! I am
 
 - I play multiple instruments and love all things music 🎸 🎻 🎹.
 - I travel to Wisconsin often 👩‍🌾.
-- I could eat sushi everyday 🍣.
+- I could eat sushi everyday 🐟🍣.
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" /> Skills</h2>
 
